@@ -1,0 +1,21 @@
+{
+  "name": "knockout",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Anthony Balmeo <anthony.balmeo@dollarshaveclub.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "knockout": "~3.4.0"
+  }
+}

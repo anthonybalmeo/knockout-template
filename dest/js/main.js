@@ -1,0 +1,1 @@
+var x=function(){console.log("arc")},today=123,x=function(){console.log("why")};
